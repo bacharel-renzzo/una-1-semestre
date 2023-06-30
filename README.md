@@ -1,9 +1,9 @@
-<h1 align="center"> ☕ Lista de Exercícios - UNA
+<h1 align="center"> ☕ UNA - Atividades
 
 <h2 id=descricao> 📜 Descrição</h2>
 
-- Listas de exercícios do 1º semestre da faculdade;
-- As listas foram desenvolvidas em Java;
+- Projetos do 1º semestre da faculdade;
+- As atividades foram desenvolvidas em Java;
 - Foram trabalhados os conceitos de programação estruturada/orientação a objetos.
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
