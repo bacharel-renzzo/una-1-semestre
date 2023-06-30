@@ -18,8 +18,8 @@ JAVA - <a href="https://www.java.com/pt-BR/">Linguagem de Programação Java</a>
 
 <h2 id=autor> 😁 Autor </h2>
 
-Desenvolvido por: <a href="github.com/renzzodev" target="_blank">Renzzo Rocha</a>.
+Desenvolvido por: <a href="github.com/renzzodev" target="_blank">Renzzo Rocha</a>
 
 <h2 id=Professor> 👨‍🏫 Professor </h2>
 
-As listas de exercícios foram propostas pelos professores <a href="https://github.com/danhpaiva">Daniel Paiva</a> & <a href="https://github.com/alexmontanha" target="_blank">Alexandre "Montanha" de Oliveira</a>.
+As listas de exercícios foram propostas pelos professores <a href="https://github.com/danhpaiva">Daniel Paiva</a> & <a href="https://github.com/alexmontanha" target="_blank">Alexandre "Montanha" de Oliveira</a>
