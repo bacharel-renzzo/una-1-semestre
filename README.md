@@ -16,7 +16,7 @@ JDK - <a href= "https://download.oracle.com/java/20/latest/jdk-20_linux-aarch64_
 <br>
 JAVA - <a href="https://www.java.com/pt-BR/">Linguagem de Programação Java</a>
 
-<h2 id=autor> 😁 Autor </h2>
+<h2 id=autor> 👨‍🎓 Autor </h2>
 
 Desenvolvido por: <a href="github.com/renzzodev" target="_blank">Renzzo Rocha</a>
 
