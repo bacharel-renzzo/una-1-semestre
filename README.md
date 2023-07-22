@@ -16,7 +16,7 @@ As tecnologias que foram utilizadas são as seguintes:
 
 <h2 id=autor> 👨‍🎓 Autor </h2>
 
-- Desenvolvido por: <a href="github.com/renzzodev" target="_blank">Renzzo Rocha</a>
+- Desenvolvido por: <a href="github.com/renzzorocha" target="_blank">Renzzo Rocha</a>
 
 <h2 id=Professor> 👨‍🏫 Professores </h2>
 
