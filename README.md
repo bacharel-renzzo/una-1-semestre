@@ -3,7 +3,7 @@
 <h2 id=descricao> 📜 Descrição</h2>
 
 - Projetos do 1º semestre da faculdade;
-- As atividades foram desenvolvidas em Java;
+- As atividades foram desenvolvidas na linguagem de programação Java;
 - Foram trabalhados os conceitos de programação estruturada/orientação a objetos.
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
