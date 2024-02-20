@@ -1,4 +1,4 @@
-<h1 align="center"> ☕ UNA - Atividades do 1º Semestre - Programação em Soluções Computacionais
+<h1 align="center"> ☕ UNA - Atividades do 1º Semestre 
 
 <h2 id=descricao> 📜 Descrição</h2>
 
