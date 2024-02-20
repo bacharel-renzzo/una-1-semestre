@@ -8,7 +8,7 @@
 
 <h2 id=tecnologias> 💻 Tecnologias </h2>
 
-As tecnologias que foram utilizadas são as seguintes: 
+As tecnologias que estão sendo utilizadas são as seguintes: 
 
 - IDE - <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
 - JDK - <a href= "https://download.oracle.com/java/20/latest/jdk-20_linux-aarch64_bin.tar.gz (sha256)">JDK</a> 
