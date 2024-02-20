@@ -2,7 +2,7 @@
 
 <h2 id=descricao> 📜 Descrição</h2>
 
-- Projetos do 1º semestre da faculdade;
+- Atividades do 1º semestre da faculdade;
 - As atividades foram desenvolvidas na linguagem de programação Java;
 - As atividades são relacionadas as UC's de Programação em Soluções Computacionais e Modelagem De Software.
 
